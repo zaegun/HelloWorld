@@ -2,9 +2,9 @@
 
 This a simple "Hello World" python script.
 
-The purpose of this script is show that Git, Github, VS Code, and Python are all working correctly.
+The purpose of this script is show that Git, GitHub, VS Code, and Python are all working correctly.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Demo Video](https://youtu.be/kkOOv3ht4wQ)
 
 # Development Environment
 
