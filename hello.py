@@ -1,4 +1,6 @@
-# This script says "Hello World!"
+#hello.py
+
+#This script says hello!
 def main(): 
     print("Hello World!")
 
